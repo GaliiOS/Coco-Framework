@@ -1,0 +1,54 @@
+Tpthread
+v5
+r1
+cCheck dependencies
+cSymLink /Users/galiro/OpenAir/core/pthread/../build/Debug-windows/pthread.1.0.dll /Developer/Cocotron/1.0/Windows/i386/Frameworks/pthread.1.0.dll
+cCpHeader sched.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/usr/include/sched.h
+cCpHeader pthread.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/usr/include/pthread.h
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/pthread.1.0.dll
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/usr/include/pthread.h
+t1341747667
+s3392
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/usr/include/sched.h
+t1341747667
+s152
+
+N/Users/galiro/OpenAir/core/pthread/../build/Debug-windows/pthread.1.0.dll
+t3
+s63
+
+N/Users/galiro/OpenAir/core/pthread/pthread.h
+c000000004FF89B8C0000000000000D40
+t1341692812
+s3392
+
+N/Users/galiro/OpenAir/core/pthread/sched.h
+c000000004FF89B8C0000000000000098
+t1341692812
+s152
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies45f2494bd5b0b541^9b20664bd5b0b541^---0#1#0#--18"Check dependencies36"819A1097-98E2-4116-90F4-BBF4C35C7437-
+
+CCpHeader pthread.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/usr/include/pthread.h
+r0
+
+CCpHeader sched.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/usr/include/sched.h
+r0
+
+CSymLink /Users/galiro/OpenAir/core/pthread/../build/Debug-windows/pthread.1.0.dll /Developer/Cocotron/1.0/Windows/i386/Frameworks/pthread.1.0.dll
+s363482675.259610
+e363482675.497868
+r1
+xSymLink
+x/Users/galiro/OpenAir/core/pthread/../build/Debug-windows/pthread.1.0.dll
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/pthread.1.0.dll
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Process /Users/galiro/OpenAir/core/pthread/../build/Debug-windows/pthread.1.0.dll399742334eaab541^95817f334eaab541^---0#0#0#--307"SymLink ../build/Debug-windows/pthread.1.0.dll /Developer/Cocotron/1.0/Windows/i386/Frameworks/pthread.1.0.dll    cd /Users/galiro/OpenAir/core/pthread    /bin/ln -sf /Developer/Cocotron/1.0/Windows/i386/Frameworks/pthread.1.0.dll /Users/galiro/OpenAir/core/pthread/../build/Debug-windows/pthread.1.0.dll36"C8F81C66-B0E4-4D7F-A74C-B9B21E5A04B6-
+

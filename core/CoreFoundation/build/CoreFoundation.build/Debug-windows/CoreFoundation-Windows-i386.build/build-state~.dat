@@ -1,0 +1,608 @@
+TCoreFoundation-Windows-i386
+v5
+r1
+cCheck dependencies
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/Current A
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Resources Versions/Current/Resources
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Headers Versions/Current/Headers
+cProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Resources/Info.plist Info.plist
+cSymLink /Users/galiro/OpenAir/core/CoreFoundation/../build/Debug-windows/CoreFoundation.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework
+cCpHeader CFBase.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBase.h
+cCpHeader CFLocale.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFLocale.h
+cCpHeader CFNumber.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumber.h
+cCpHeader CFNumberFormatter.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumberFormatter.h
+cCpHeader CFString.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFString.h
+cCpHeader CoreFoundation.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CoreFoundation.h
+cCpHeader CFArray.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFArray.h
+cCpHeader CFAttributedString.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFAttributedString.h
+cCpHeader CFBitVector.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBitVector.h
+cCpHeader CFBinaryHeap.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBinaryHeap.h
+cCpHeader CFBag.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBag.h
+cCpHeader CFBundle.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBundle.h
+cCpHeader CFByteOrder.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFByteOrder.h
+cCpHeader CFCalendar.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCalendar.h
+cCpHeader CFCharacterSet.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCharacterSet.h
+cCpHeader CFData.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFData.h
+cCpHeader CFDate.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDate.h
+cCpHeader CFDictionary.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDictionary.h
+cCpHeader CFDateFormatter.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDateFormatter.h
+cCpHeader CFMachPort.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMachPort.h
+cCpHeader CFError.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFError.h
+cCpHeader CFFileDescriptor.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFFileDescriptor.h
+cCpHeader CFMessagePort.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMessagePort.h
+cCpHeader CFPlugIn.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPlugIn.h
+cCpHeader CFNotificationCenter.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNotificationCenter.h
+cCpHeader CFPreferences.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPreferences.h
+cCpHeader CFPropertyList.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPropertyList.h
+cCpHeader CFRunLoop.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFRunLoop.h
+cCpHeader CFSet.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSet.h
+cCpHeader CFSocket.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSocket.h
+cCpHeader CFStream.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStream.h
+cCpHeader CFStringTokenizer.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStringTokenizer.h
+cCpHeader CFTimeZone.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTimeZone.h
+cCpHeader CFTree.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTree.h
+cCpHeader CFURL.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFURL.h
+cCpHeader CFUserNotification.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUserNotification.h
+cCpHeader CFUUID.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUUID.h
+cCpHeader CFXMLNode.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLNode.h
+cCpHeader CFXMLParser.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLParser.h
+cCopyStringsFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework
+cSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework
+cSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework
+t1341747668
+s170
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Headers
+t3
+s24
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Resources
+t3
+s26
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFArray.h
+t1341747667
+s4406
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFAttributedString.h
+t1341747667
+s4045
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBag.h
+t1341747667
+s3707
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBase.h
+t1341747667
+s8067
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBinaryHeap.h
+t1341747667
+s3701
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBitVector.h
+t1341747667
+s2187
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBundle.h
+t1341747667
+s7383
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFByteOrder.h
+t1341747667
+s3760
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCalendar.h
+t1341747667
+s4143
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCharacterSet.h
+t1341747667
+s4285
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFData.h
+t1341747667
+s2727
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDate.h
+t1341747667
+s3566
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDateFormatter.h
+t1341747667
+s3038
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDictionary.h
+t1341747667
+s4897
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFError.h
+t1341747667
+s2628
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFFileDescriptor.h
+t1341747667
+s2942
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFLocale.h
+t1341747667
+s4413
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMachPort.h
+t1341747667
+s2882
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMessagePort.h
+t1341747667
+s3598
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNotificationCenter.h
+t1341747667
+s2699
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumber.h
+t1341747667
+s2824
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumberFormatter.h
+t1341747667
+s6547
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPlugIn.h
+t1341747667
+s3147
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPreferences.h
+t1341747667
+s3489
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPropertyList.h
+t1341747667
+s2423
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFRunLoop.h
+t1341747667
+s7531
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSet.h
+t1341747667
+s3649
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSocket.h
+t1341747667
+s4726
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStream.h
+t1341747667
+s7889
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFString.h
+t1341747667
+s10403
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStringTokenizer.h
+t1341747667
+s2486
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTimeZone.h
+t1341747667
+s3361
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTree.h
+t1341747667
+s3131
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFURL.h
+t1341747667
+s6184
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUUID.h
+t1341747667
+s2579
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUserNotification.h
+t1341747667
+s4902
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLNode.h
+t1341747667
+s4014
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLParser.h
+t1341747667
+s5460
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CoreFoundation.h
+t1341747667
+s2988
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t1341747668
+s92
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Resources/Info.plist
+t1341747667
+s1103
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/Current
+t3
+s1
+
+N/Users/galiro/OpenAir/core/CoreFoundation/../build/Debug-windows/CoreFoundation.framework
+t2
+s0
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFArray.h
+c000000004FF89B890000000000001136
+t1341692809
+s4406
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFAttributedString.h
+c000000004FF89B890000000000000FCD
+t1341692809
+s4045
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFBag.h
+c000000004FF89B890000000000000E7B
+t1341692809
+s3707
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFBase.h
+c000000004FF89B890000000000001F83
+t1341692809
+s8067
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFBinaryHeap.h
+c000000004FF89B890000000000000E75
+t1341692809
+s3701
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFBitVector.h
+c000000004FF89B89000000000000088B
+t1341692809
+s2187
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFBundle.h
+c000000004FF89B890000000000001CD7
+t1341692809
+s7383
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFByteOrder.h
+c000000004FF89B890000000000000EB0
+t1341692809
+s3760
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFCalendar.h
+c000000004FF89B89000000000000102F
+t1341692809
+s4143
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFCharacterSet.h
+c000000004FF89B8900000000000010BD
+t1341692809
+s4285
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFData.h
+c000000004FF89B890000000000000AA7
+t1341692809
+s2727
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFDate.h
+c000000004FF89B890000000000000DEE
+t1341692809
+s3566
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFDateFormatter.h
+c000000004FF89B890000000000000BDE
+t1341692809
+s3038
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFDictionary.h
+c000000004FF89B890000000000001321
+t1341692809
+s4897
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFError.h
+c000000004FF89B890000000000000A44
+t1341692809
+s2628
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFFileDescriptor.h
+c000000004FF89B890000000000000B7E
+t1341692809
+s2942
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFLocale.h
+c000000004FF89B89000000000000113D
+t1341692809
+s4413
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFMachPort.h
+c000000004FF89B890000000000000B42
+t1341692809
+s2882
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFMessagePort.h
+c000000004FF89B890000000000000E0E
+t1341692809
+s3598
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFNotificationCenter.h
+c000000004FF89B890000000000000A8B
+t1341692809
+s2699
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFNumber.h
+c000000004FF89B890000000000000B08
+t1341692809
+s2824
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFNumberFormatter.h
+c000000004FF89B890000000000001993
+t1341692809
+s6547
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFPlugIn.h
+c000000004FF89B890000000000000C4B
+t1341692809
+s3147
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFPreferences.h
+c000000004FF89B890000000000000DA1
+t1341692809
+s3489
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFPropertyList.h
+c000000004FF89B890000000000000977
+t1341692809
+s2423
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFRunLoop.h
+c000000004FF89B890000000000001D6B
+t1341692809
+s7531
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFSet.h
+c000000004FF89B890000000000000E41
+t1341692809
+s3649
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFSocket.h
+c000000004FF89B890000000000001276
+t1341692809
+s4726
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFStream.h
+c000000004FF89B890000000000001ED1
+t1341692809
+s7889
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFString.h
+c000000004FF89B8900000000000028A3
+t1341692809
+s10403
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFStringTokenizer.h
+c000000004FF89B8900000000000009B6
+t1341692809
+s2486
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFTimeZone.h
+c000000004FF89B890000000000000D21
+t1341692809
+s3361
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFTree.h
+c000000004FF89B890000000000000C3B
+t1341692809
+s3131
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFURL.h
+c000000004FF89B890000000000001828
+t1341692809
+s6184
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFUUID.h
+c000000004FF89B890000000000000A13
+t1341692809
+s2579
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFUserNotification.h
+c000000004FF89B890000000000001326
+t1341692809
+s4902
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFXMLNode.h
+c000000004FF89B890000000000000FAE
+t1341692809
+s4014
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CFXMLParser.h
+c000000004FF89B890000000000001554
+t1341692809
+s5460
+
+N/Users/galiro/OpenAir/core/CoreFoundation/CoreFoundation.h
+c000000004FF89B890000000000000BAC
+t1341692809
+s2988
+
+N/Users/galiro/OpenAir/core/CoreFoundation/English.lproj/InfoPlist.strings
+c000000004FF89B89000000000000005C
+t1341692809
+s92
+
+NInfo.plist
+c000000004FF89B890000000000000306
+t1341692809
+s774
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies67b9a8334eaab541^2d5dc5334eaab541^---0#1#0#--18"Check dependencies36"C86D7B8B-721F-4895-A5F7-42DC25A97C2D-
+
+CCopyStringsFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCpHeader CFArray.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFArray.h
+r0
+
+CCpHeader CFAttributedString.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFAttributedString.h
+r0
+
+CCpHeader CFBag.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBag.h
+r0
+
+CCpHeader CFBase.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBase.h
+r0
+
+CCpHeader CFBinaryHeap.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBinaryHeap.h
+r0
+
+CCpHeader CFBitVector.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBitVector.h
+r0
+
+CCpHeader CFBundle.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBundle.h
+r0
+
+CCpHeader CFByteOrder.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFByteOrder.h
+r0
+
+CCpHeader CFCalendar.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCalendar.h
+r0
+
+CCpHeader CFCharacterSet.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFCharacterSet.h
+r0
+
+CCpHeader CFData.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFData.h
+r0
+
+CCpHeader CFDate.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDate.h
+r0
+
+CCpHeader CFDateFormatter.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDateFormatter.h
+r0
+
+CCpHeader CFDictionary.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFDictionary.h
+r0
+
+CCpHeader CFError.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFError.h
+r0
+
+CCpHeader CFFileDescriptor.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFFileDescriptor.h
+r0
+
+CCpHeader CFLocale.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFLocale.h
+r0
+
+CCpHeader CFMachPort.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMachPort.h
+r0
+
+CCpHeader CFMessagePort.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMessagePort.h
+r0
+
+CCpHeader CFNotificationCenter.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNotificationCenter.h
+r0
+
+CCpHeader CFNumber.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumber.h
+r0
+
+CCpHeader CFNumberFormatter.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFNumberFormatter.h
+r0
+
+CCpHeader CFPlugIn.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPlugIn.h
+r0
+
+CCpHeader CFPreferences.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPreferences.h
+r0
+
+CCpHeader CFPropertyList.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFPropertyList.h
+r0
+
+CCpHeader CFRunLoop.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFRunLoop.h
+r0
+
+CCpHeader CFSet.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSet.h
+r0
+
+CCpHeader CFSocket.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSocket.h
+r0
+
+CCpHeader CFStream.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStream.h
+r0
+
+CCpHeader CFString.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFString.h
+r0
+
+CCpHeader CFStringTokenizer.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFStringTokenizer.h
+r0
+
+CCpHeader CFTimeZone.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTimeZone.h
+r0
+
+CCpHeader CFTree.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFTree.h
+r0
+
+CCpHeader CFURL.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFURL.h
+r0
+
+CCpHeader CFUUID.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUUID.h
+r0
+
+CCpHeader CFUserNotification.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFUserNotification.h
+r0
+
+CCpHeader CFXMLNode.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLNode.h
+r0
+
+CCpHeader CFXMLParser.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFXMLParser.h
+r0
+
+CCpHeader CoreFoundation.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Headers/CoreFoundation.h
+r0
+
+CProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/A/Resources/Info.plist Info.plist
+r0
+
+CSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework
+s363482675.955870
+e363482675.961373
+r1
+xSetMode
+xog-w,a+rX
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework12c1f4334eaab541^bd1cf6334eaab541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/0000000000000000^242"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework    cd /Users/galiro/OpenAir/core/CoreFoundation    /bin/chmod -RH og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework36"6672596A-94DA-4D45-9A30-F2A12BE8CECF-
+
+CSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework
+s363482675.832094
+e363482675.948059
+r1
+xSetOwnerAndGroup
+xgaliro:staff
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"SetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.frameworka916d5334eaab541^a6b4f2334eaab541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/0000000000000000^266"SetOwnerAndGroup "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework    cd /Users/galiro/OpenAir/core/CoreFoundation    /usr/sbin/chown -RH "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework36"D79F23C5-C30E-4D73-9080-BA3D0A9D429E-
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Headers Versions/Current/Headers
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Resources Versions/Current/Resources
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework/Versions/Current A
+r0
+
+CSymLink /Users/galiro/OpenAir/core/CoreFoundation/../build/Debug-windows/CoreFoundation.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework
+s363482675.781959
+e363482675.786794
+r1
+xSymLink
+x/Users/galiro/OpenAir/core/CoreFoundation/../build/Debug-windows/CoreFoundation.framework
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Process /Users/galiro/OpenAir/core/CoreFoundation/../build/Debug-windows/CoreFoundation.framework5c3cc8334eaab541^556bc9334eaab541^---0#0#0#--357"SymLink ../build/Debug-windows/CoreFoundation.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework    cd /Users/galiro/OpenAir/core/CoreFoundation    /bin/ln -sf /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework /Users/galiro/OpenAir/core/CoreFoundation/../build/Debug-windows/CoreFoundation.framework36"96829741-E586-46F2-BF95-E9525F80A6AB-
+
+CTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreFoundation.framework
+r0
+

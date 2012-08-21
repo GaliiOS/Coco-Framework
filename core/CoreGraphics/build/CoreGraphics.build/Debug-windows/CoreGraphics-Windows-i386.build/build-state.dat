@@ -1,0 +1,1383 @@
+TCoreGraphics-Windows-i386
+v5
+r1
+cCheck dependencies
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/Current A
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Resources Versions/Current/Resources
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Headers Versions/Current/Headers
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/PrivateHeaders Versions/Current/PrivateHeaders
+cProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Resources/Info.plist Info.plist
+cSymLink /Users/galiro/OpenAir/core/CoreGraphics/../build/Debug-windows/CoreGraphics.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework
+cCpHeader CGAffineTransform.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGAffineTransform.h
+cCpHeader CGBitmapContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGBitmapContext.h
+cCpHeader CGColor.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGColor.h
+cCpHeader CGColorSpace.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGColorSpace.h
+cCpHeader CGContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGContext.h
+cCpHeader CGDataProvider.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGDataProvider.h
+cCpHeader CGEvent.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGEvent.h
+cCpHeader CGFont.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGFont.h
+cCpHeader CGFunction.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGFunction.h
+cCpHeader CGGeometry.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGGeometry.h
+cCpHeader CGImage.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGImage.h
+cCpHeader CGImageProperties.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGImageProperties.h
+cCpHeader CGImageSource.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGImageSource.h
+cCpHeader CGLayer.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGLayer.h
+cCpHeader CGPath.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPath.h
+cCpHeader CGPattern.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPattern.h
+cCpHeader CGPDFDocument.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPDFDocument.h
+cCpHeader CGPDFPage.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPDFPage.h
+cCpHeader CGShading.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGShading.h
+cCpHeader CGWindow.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGWindow.h
+cCpHeader CoreGraphics.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CoreGraphics.h
+cCpHeader CoreGraphicsExport.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CoreGraphicsExport.h
+cCpHeader ../Onyx2D/../Onyx2D/gif_lib.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/gif_lib.h
+cCpHeader ../Onyx2D/../Onyx2D/O2BitmapContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2BitmapContext.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Blending.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Blending.h
+cCpHeader ../Onyx2D/../Onyx2D/O2ClipPhase.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ClipPhase.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Color.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Color.h
+cCpHeader ../Onyx2D/../Onyx2D/O2ColorSpace+PDF.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ColorSpace+PDF.h
+cCpHeader ../Onyx2D/../Onyx2D/O2ColorSpace.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ColorSpace.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Context.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Context.h
+cCpHeader ../Onyx2D/../Onyx2D/O2DataProvider.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2DataProvider.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Context_builtin.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Context_builtin.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Exceptions.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Exceptions.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Font.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Font.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Function.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Function.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Function+PDF.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Function+PDF.h
+cCpHeader ../Onyx2D/../Onyx2D/O2GraphicsState.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2GraphicsState.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Image+PDF.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Image+PDF.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Image.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Image.h
+cCpHeader ../Onyx2D/../Onyx2D/O2ImageSource.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource.h
+cCpHeader ../Onyx2D/../Onyx2D/O2ImageSource_BMP.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_BMP.h
+cCpHeader ../Onyx2D/../Onyx2D/O2ImageSource_GIF.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_GIF.h
+cCpHeader ../Onyx2D/../Onyx2D/O2ImageSource_PNG.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_PNG.h
+cCpHeader ../Onyx2D/../Onyx2D/O2ImageSource_JPEG.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_JPEG.h
+cCpHeader ../Onyx2D/../Onyx2D/O2ImageSource_TIFF.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_TIFF.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Layer.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Layer.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Paint.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint.h
+cCpHeader ../Onyx2D/../Onyx2D/O2MutablePath.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2MutablePath.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Paint_axialGradient.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_axialGradient.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Paint_color.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_color.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Paint_image.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_image.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Paint_pattern.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_pattern.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Paint_radialGradient.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_radialGradient.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Paint_ramp.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_ramp.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Path.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Path.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Pattern.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Pattern.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFArray.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFArray.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFContentStream.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFContentStream.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFContext.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFDictionary.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFDictionary.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFDocument.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFDocument.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFFilter.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFFilter.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFFunction_Type2.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFFunction_Type2.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFFunction_Type3.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFFunction_Type3.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFObject.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFObject_Boolean.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_Boolean.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFObject_const.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_const.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFObject_identifier.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_identifier.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFObject_Integer.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_Integer.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFObject_Name.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_Name.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFObject_R.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_R.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFObject_Real.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_Real.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFOperators.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFOperators.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFOperatorTable.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFOperatorTable.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFPage.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFPage.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFScanner.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFScanner.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFStream.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFStream.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFString.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFString.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFxref.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFxref.h
+cCpHeader ../Onyx2D/../Onyx2D/O2PDFxrefEntry.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFxrefEntry.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Shading+PDF.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Shading+PDF.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Shading.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Shading.h
+cCpHeader ../Onyx2D/../Onyx2D/O2zlib.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2zlib.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Surface.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Surface.h
+cCpHeader ../Onyx2D/../Onyx2D/O2TIFFImageDirectory.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2TIFFImageDirectory.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Decoder_TIFF.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Decoder_TIFF.h
+cCpHeader ../Onyx2D/../Onyx2D/VGmath.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/VGmath.h
+cCpHeader ../Onyx2D/../Onyx2D/VGPath.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/VGPath.h
+cCpHeader CGDataConsumer.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGDataConsumer.h
+cCpHeader CGPDFContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPDFContext.h
+cCpHeader ../Onyx2D/../Onyx2D/O2LZW.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2LZW.h
+cCpHeader ../Onyx2D/../Onyx2D/O2AffineTransform.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2AffineTransform.h
+cCpHeader ../Onyx2D/../Onyx2D/O2Geometry.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Geometry.h
+cCpHeader CGImageDestination.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGImageDestination.h
+cCpHeader CGGradient.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGGradient.h
+cCpHeader CGDirectDisplay.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGDirectDisplay.h
+cCpHeader CGError.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGError.h
+cCpHeader CGLPixelSurface.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGLPixelSurface.h
+cCpHeader CGWindowLevel.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGWindowLevel.h
+cTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework
+cSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework
+cSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework
+t1341747709
+s204
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Headers
+t3
+s24
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/PrivateHeaders
+t3
+s31
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Resources
+t3
+s26
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGAffineTransform.h
+t1341747709
+s2489
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGBitmapContext.h
+t1341747709
+s2258
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGColor.h
+t1341747709
+s2491
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGColorSpace.h
+t1341747709
+s2275
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGContext.h
+t1341747709
+s14082
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGDataConsumer.h
+t1341747709
+s1945
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGDataProvider.h
+t1341747709
+s1787
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGDirectDisplay.h
+t1341747709
+s135
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGError.h
+t1341747709
+s46
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGEvent.h
+t1341747709
+s1150
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGFont.h
+t1341747709
+s2527
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGFunction.h
+t1341747709
+s1640
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGGeometry.h
+t1341747709
+s4386
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGGradient.h
+t1341747709
+s627
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGImage.h
+t1341747709
+s4673
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGImageDestination.h
+t1341747709
+s1469
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGImageProperties.h
+t1341747709
+s1449
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGImageSource.h
+t1341747709
+s1791
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGLPixelSurface.h
+t1341747709
+s555
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGLayer.h
+t1341747709
+s1558
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPDFContext.h
+t1341747709
+s1469
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPDFDocument.h
+t1341747709
+s1696
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPDFPage.h
+t1341747709
+s1721
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPath.h
+t1341747709
+s4193
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPattern.h
+t1341747709
+s1941
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGShading.h
+t1341747709
+s1793
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGWindow.h
+t1341747709
+s4000
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGWindowLevel.h
+t1341747709
+s232
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CoreGraphics.h
+t1341747709
+s1939
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CoreGraphicsExport.h
+t1341747709
+s1618
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2AffineTransform.h
+t1341747709
+s2435
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2BitmapContext.h
+t1341747709
+s2866
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Blending.h
+t1341747709
+s0
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ClipPhase.h
+t1341747709
+s727
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Color.h
+t1341747709
+s2560
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ColorSpace+PDF.h
+t1341747709
+s240
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ColorSpace.h
+t1341747709
+s3358
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Context.h
+t1341747709
+s15419
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Context_builtin.h
+t1341747709
+s4343
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2DataProvider.h
+t1341747709
+s2634
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Decoder_TIFF.h
+t1341747709
+s4328
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Exceptions.h
+t1341747709
+s1019
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Font.h
+t1341747709
+s3764
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Function+PDF.h
+t1341747709
+s408
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Function.h
+t1341747709
+s2076
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Geometry.h
+t1341747709
+s2903
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2GraphicsState.h
+t1341747709
+s6766
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Image+PDF.h
+t1341747709
+s243
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Image.h
+t1341747709
+s11796
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource.h
+t1341747709
+s2182
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_BMP.h
+t1341747709
+s1280
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_GIF.h
+t1341747709
+s1332
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_JPEG.h
+t1341747709
+s1282
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_PNG.h
+t1341747709
+s1280
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_TIFF.h
+t1341747709
+s1217
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2LZW.h
+t1341747709
+s2499
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Layer.h
+t1341747709
+s1746
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2MutablePath.h
+t1341747709
+s2910
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFArray.h
+t1341747709
+s2590
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFContentStream.h
+t1341747709
+s1712
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFContext.h
+t1341747709
+s2645
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFDictionary.h
+t1341747709
+s2690
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFDocument.h
+t1341747709
+s1546
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFFilter.h
+t1341747709
+s1496
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFFunction_Type2.h
+t1341747709
+s1408
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFFunction_Type3.h
+t1341747709
+s1548
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject.h
+t1341747709
+s2298
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_Boolean.h
+t1341747709
+s1271
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_Integer.h
+t1341747709
+s1229
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_Name.h
+t1341747709
+s1330
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_R.h
+t1341747709
+s1354
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_Real.h
+t1341747709
+s1217
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_const.h
+t1341747709
+s1356
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_identifier.h
+t1341747709
+s2787
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFOperatorTable.h
+t1341747709
+s1500
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFOperators.h
+t1341747709
+s5256
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFPage.h
+t1341747709
+s2138
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFScanner.h
+t1341747709
+s3297
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFStream.h
+t1341747709
+s1703
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFString.h
+t1341747709
+s1709
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFxref.h
+t1341747709
+s1953
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFxrefEntry.h
+t1341747709
+s1481
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint.h
+t1341747709
+s2657
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_axialGradient.h
+t1341747709
+s1628
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_color.h
+t1341747709
+s1768
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_image.h
+t1341747709
+s1909
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_pattern.h
+t1341747709
+s1616
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_radialGradient.h
+t1341747709
+s1628
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_ramp.h
+t1341747709
+s2056
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Path.h
+t1341747709
+s3059
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Pattern.h
+t1341747709
+s2290
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Shading+PDF.h
+t1341747709
+s221
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Shading.h
+t1341747709
+s2759
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Surface.h
+t1341747709
+s4193
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2TIFFImageDirectory.h
+t1341747709
+s3511
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2zlib.h
+t1341747709
+s93
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/VGPath.h
+t1341747709
+s2685
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/VGmath.h
+t1341747709
+s3312
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/gif_lib.h
+t1341747709
+s10702
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Resources/Info.plist
+t1341747709
+s1097
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/Current
+t3
+s1
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2AffineTransform.h
+c000000004FF89B8C0000000000000983
+t1341692812
+s2435
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2BitmapContext.h
+c000000004FF89B8C0000000000000B32
+t1341692812
+s2866
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Blending.h
+c000000004FF89B8C0000000000000000
+t1341692812
+s0
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2ClipPhase.h
+c000000004FF89B8C00000000000002D7
+t1341692812
+s727
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Color.h
+c000000004FF89B8C0000000000000A00
+t1341692812
+s2560
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2ColorSpace+PDF.h
+c000000004FF89B8C00000000000000F0
+t1341692812
+s240
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2ColorSpace.h
+c000000004FF89B8C0000000000000D1E
+t1341692812
+s3358
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Context.h
+c000000004FF89B8C0000000000003C3B
+t1341692812
+s15419
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Context_builtin.h
+c000000004FF89B8C00000000000010F7
+t1341692812
+s4343
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2DataProvider.h
+c000000004FF89B8C0000000000000A4A
+t1341692812
+s2634
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Decoder_TIFF.h
+c000000004FF89B8C00000000000010E8
+t1341692812
+s4328
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Exceptions.h
+c000000004FF89B8C00000000000003FB
+t1341692812
+s1019
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Font.h
+c000000004FF89B8C0000000000000EB4
+t1341692812
+s3764
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Function+PDF.h
+c000000004FF89B8C0000000000000198
+t1341692812
+s408
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Function.h
+c000000004FF89B8C000000000000081C
+t1341692812
+s2076
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Geometry.h
+c000000004FF89B8C0000000000000B57
+t1341692812
+s2903
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2GraphicsState.h
+c000000004FF89B8C0000000000001A6E
+t1341692812
+s6766
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Image+PDF.h
+c000000004FF89B8C00000000000000F3
+t1341692812
+s243
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Image.h
+c000000004FF89B8C0000000000002E14
+t1341692812
+s11796
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2ImageSource.h
+c000000004FF89B8C0000000000000886
+t1341692812
+s2182
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2ImageSource_BMP.h
+c000000004FF89B8C0000000000000500
+t1341692812
+s1280
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2ImageSource_GIF.h
+c000000004FF89B8C0000000000000534
+t1341692812
+s1332
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2ImageSource_JPEG.h
+c000000004FF89B8C0000000000000502
+t1341692812
+s1282
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2ImageSource_PNG.h
+c000000004FF89B8C0000000000000500
+t1341692812
+s1280
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2ImageSource_TIFF.h
+c000000004FF89B8C00000000000004C1
+t1341692812
+s1217
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2LZW.h
+c000000004FF89B8C00000000000009C3
+t1341692812
+s2499
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Layer.h
+c000000004FF89B8C00000000000006D2
+t1341692812
+s1746
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2MutablePath.h
+c000000004FF89B8C0000000000000B5E
+t1341692812
+s2910
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFArray.h
+c000000004FF89B8C0000000000000A1E
+t1341692812
+s2590
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFContentStream.h
+c000000004FF89B8C00000000000006B0
+t1341692812
+s1712
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFContext.h
+c000000004FF89B8C0000000000000A55
+t1341692812
+s2645
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFDictionary.h
+c000000004FF89B8C0000000000000A82
+t1341692812
+s2690
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFDocument.h
+c000000004FF89B8C000000000000060A
+t1341692812
+s1546
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFFilter.h
+c000000004FF89B8C00000000000005D8
+t1341692812
+s1496
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFFunction_Type2.h
+c000000004FF89B8C0000000000000580
+t1341692812
+s1408
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFFunction_Type3.h
+c000000004FF89B8C000000000000060C
+t1341692812
+s1548
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFObject.h
+c000000004FF89B8C00000000000008FA
+t1341692812
+s2298
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFObject_Boolean.h
+c000000004FF89B8C00000000000004F7
+t1341692812
+s1271
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFObject_Integer.h
+c000000004FF89B8C00000000000004CD
+t1341692812
+s1229
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFObject_Name.h
+c000000004FF89B8C0000000000000532
+t1341692812
+s1330
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFObject_R.h
+c000000004FF89B8C000000000000054A
+t1341692812
+s1354
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFObject_Real.h
+c000000004FF89B8C00000000000004C1
+t1341692812
+s1217
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFObject_const.h
+c000000004FF89B8C000000000000054C
+t1341692812
+s1356
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFObject_identifier.h
+c000000004FF89B8C0000000000000AE3
+t1341692812
+s2787
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFOperatorTable.h
+c000000004FF89B8C00000000000005DC
+t1341692812
+s1500
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFOperators.h
+c000000004FF89B8C0000000000001488
+t1341692812
+s5256
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFPage.h
+c000000004FF89B8C000000000000085A
+t1341692812
+s2138
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFScanner.h
+c000000004FF89B8C0000000000000CE1
+t1341692812
+s3297
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFStream.h
+c000000004FF89B8C00000000000006A7
+t1341692812
+s1703
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFString.h
+c000000004FF89B8C00000000000006AD
+t1341692812
+s1709
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFxref.h
+c000000004FF89B8C00000000000007A1
+t1341692812
+s1953
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2PDFxrefEntry.h
+c000000004FF89B8C00000000000005C9
+t1341692812
+s1481
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Paint.h
+c000000004FF89B8C0000000000000A61
+t1341692812
+s2657
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Paint_axialGradient.h
+c000000004FF89B8C000000000000065C
+t1341692812
+s1628
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Paint_color.h
+c000000004FF89B8C00000000000006E8
+t1341692812
+s1768
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Paint_image.h
+c000000004FF89B8C0000000000000775
+t1341692812
+s1909
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Paint_pattern.h
+c000000004FF89B8C0000000000000650
+t1341692812
+s1616
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Paint_radialGradient.h
+c000000004FF89B8C000000000000065C
+t1341692812
+s1628
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Paint_ramp.h
+c000000004FF89B8C0000000000000808
+t1341692812
+s2056
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Path.h
+c000000004FF89B8C0000000000000BF3
+t1341692812
+s3059
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Pattern.h
+c000000004FF89B8C00000000000008F2
+t1341692812
+s2290
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Shading+PDF.h
+c000000004FF89B8C00000000000000DD
+t1341692812
+s221
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Shading.h
+c000000004FF89B8C0000000000000AC7
+t1341692812
+s2759
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2Surface.h
+c000000004FF89B8C0000000000001061
+t1341692812
+s4193
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2TIFFImageDirectory.h
+c000000004FF89B8C0000000000000DB7
+t1341692812
+s3511
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/O2zlib.h
+c000000004FF89B8C000000000000005D
+t1341692812
+s93
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/VGPath.h
+c000000004FF89B8C0000000000000A7D
+t1341692812
+s2685
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/VGmath.h
+c000000004FF89B8C0000000000000CF0
+t1341692812
+s3312
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../Onyx2D/../Onyx2D/gif_lib.h
+c000000004FF89B8C00000000000029CE
+t1341692812
+s10702
+
+N/Users/galiro/OpenAir/core/CoreGraphics/../build/Debug-windows/CoreGraphics.framework
+t2
+s0
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGAffineTransform.h
+c000000004FF89B8900000000000009B9
+t1341692809
+s2489
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGBitmapContext.h
+c000000004FF89B8900000000000008D2
+t1341692809
+s2258
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGColor.h
+c000000004FF89B8900000000000009BB
+t1341692809
+s2491
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGColorSpace.h
+c000000004FF89B8900000000000008E3
+t1341692809
+s2275
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGContext.h
+c000000004FF89B890000000000003702
+t1341692809
+s14082
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGDataConsumer.h
+c000000004FF89B890000000000000799
+t1341692809
+s1945
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGDataProvider.h
+c000000004FF89B8900000000000006FB
+t1341692809
+s1787
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGDirectDisplay.h
+c000000004FF89B890000000000000087
+t1341692809
+s135
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGError.h
+c000000004FF89B89000000000000002E
+t1341692809
+s46
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGEvent.h
+c000000004FF89B89000000000000047E
+t1341692809
+s1150
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGFont.h
+c000000004FF89B8900000000000009DF
+t1341692809
+s2527
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGFunction.h
+c000000004FF89B890000000000000668
+t1341692809
+s1640
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGGeometry.h
+c000000004FF89B890000000000001122
+t1341692809
+s4386
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGGradient.h
+c000000004FF89B890000000000000273
+t1341692809
+s627
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGImage.h
+c000000004FF89B890000000000001241
+t1341692809
+s4673
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGImageDestination.h
+c000000004FF89B8900000000000005BD
+t1341692809
+s1469
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGImageProperties.h
+c000000004FF89B8900000000000005A9
+t1341692809
+s1449
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGImageSource.h
+c000000004FF89B8900000000000006FF
+t1341692809
+s1791
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGLPixelSurface.h
+c000000004FF89B89000000000000022B
+t1341692809
+s555
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGLayer.h
+c000000004FF89B890000000000000616
+t1341692809
+s1558
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGPDFContext.h
+c000000004FF89B8A00000000000005BD
+t1341692810
+s1469
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGPDFDocument.h
+c000000004FF89B8A00000000000006A0
+t1341692810
+s1696
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGPDFPage.h
+c000000004FF89B8A00000000000006B9
+t1341692810
+s1721
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGPath.h
+c000000004FF89B8A0000000000001061
+t1341692810
+s4193
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGPattern.h
+c000000004FF89B8A0000000000000795
+t1341692810
+s1941
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGShading.h
+c000000004FF89B8A0000000000000701
+t1341692810
+s1793
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGWindow.h
+c000000004FF89B8A0000000000000FA0
+t1341692810
+s4000
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CGWindowLevel.h
+c000000004FF89B8A00000000000000E8
+t1341692810
+s232
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CoreGraphics.h
+c000000004FF89B8A0000000000000793
+t1341692810
+s1939
+
+N/Users/galiro/OpenAir/core/CoreGraphics/CoreGraphicsExport.h
+c000000004FF89B8A0000000000000652
+t1341692810
+s1618
+
+NInfo.plist
+c000000004FF89B8A0000000000000312
+t1341692810
+s786
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies904fe450d5b0b541^ac361751d5b0b541^---0#1#0#--18"Check dependencies36"6BBEAA64-7A1F-4A5C-BAA5-878C5EAF23FD-
+
+CCpHeader ../Onyx2D/../Onyx2D/O2AffineTransform.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2AffineTransform.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2BitmapContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2BitmapContext.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Blending.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Blending.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2ClipPhase.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ClipPhase.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Color.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Color.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2ColorSpace+PDF.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ColorSpace+PDF.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2ColorSpace.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ColorSpace.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Context.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Context.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Context_builtin.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Context_builtin.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2DataProvider.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2DataProvider.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Decoder_TIFF.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Decoder_TIFF.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Exceptions.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Exceptions.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Font.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Font.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Function+PDF.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Function+PDF.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Function.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Function.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Geometry.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Geometry.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2GraphicsState.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2GraphicsState.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Image+PDF.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Image+PDF.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Image.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Image.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2ImageSource.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2ImageSource_BMP.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_BMP.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2ImageSource_GIF.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_GIF.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2ImageSource_JPEG.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_JPEG.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2ImageSource_PNG.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_PNG.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2ImageSource_TIFF.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2ImageSource_TIFF.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2LZW.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2LZW.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Layer.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Layer.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2MutablePath.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2MutablePath.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFArray.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFArray.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFContentStream.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFContentStream.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFContext.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFDictionary.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFDictionary.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFDocument.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFDocument.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFFilter.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFFilter.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFFunction_Type2.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFFunction_Type2.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFFunction_Type3.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFFunction_Type3.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFObject.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFObject_Boolean.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_Boolean.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFObject_Integer.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_Integer.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFObject_Name.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_Name.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFObject_R.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_R.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFObject_Real.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_Real.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFObject_const.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_const.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFObject_identifier.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFObject_identifier.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFOperatorTable.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFOperatorTable.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFOperators.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFOperators.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFPage.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFPage.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFScanner.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFScanner.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFStream.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFStream.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFString.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFString.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFxref.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFxref.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2PDFxrefEntry.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2PDFxrefEntry.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Paint.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Paint_axialGradient.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_axialGradient.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Paint_color.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_color.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Paint_image.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_image.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Paint_pattern.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_pattern.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Paint_radialGradient.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_radialGradient.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Paint_ramp.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Paint_ramp.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Path.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Path.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Pattern.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Pattern.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Shading+PDF.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Shading+PDF.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Shading.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Shading.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2Surface.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2Surface.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2TIFFImageDirectory.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2TIFFImageDirectory.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/O2zlib.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/O2zlib.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/VGPath.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/VGPath.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/VGmath.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/VGmath.h
+r0
+
+CCpHeader ../Onyx2D/../Onyx2D/gif_lib.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/PrivateHeaders/gif_lib.h
+r0
+
+CCpHeader CGAffineTransform.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGAffineTransform.h
+r0
+
+CCpHeader CGBitmapContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGBitmapContext.h
+r0
+
+CCpHeader CGColor.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGColor.h
+r0
+
+CCpHeader CGColorSpace.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGColorSpace.h
+r0
+
+CCpHeader CGContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGContext.h
+r0
+
+CCpHeader CGDataConsumer.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGDataConsumer.h
+r0
+
+CCpHeader CGDataProvider.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGDataProvider.h
+r0
+
+CCpHeader CGDirectDisplay.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGDirectDisplay.h
+r0
+
+CCpHeader CGError.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGError.h
+r0
+
+CCpHeader CGEvent.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGEvent.h
+r0
+
+CCpHeader CGFont.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGFont.h
+r0
+
+CCpHeader CGFunction.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGFunction.h
+r0
+
+CCpHeader CGGeometry.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGGeometry.h
+r0
+
+CCpHeader CGGradient.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGGradient.h
+r0
+
+CCpHeader CGImage.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGImage.h
+r0
+
+CCpHeader CGImageDestination.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGImageDestination.h
+r0
+
+CCpHeader CGImageProperties.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGImageProperties.h
+r0
+
+CCpHeader CGImageSource.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGImageSource.h
+r0
+
+CCpHeader CGLPixelSurface.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGLPixelSurface.h
+r0
+
+CCpHeader CGLayer.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGLayer.h
+r0
+
+CCpHeader CGPDFContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPDFContext.h
+r0
+
+CCpHeader CGPDFDocument.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPDFDocument.h
+r0
+
+CCpHeader CGPDFPage.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPDFPage.h
+r0
+
+CCpHeader CGPath.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPath.h
+r0
+
+CCpHeader CGPattern.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPattern.h
+r0
+
+CCpHeader CGShading.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGShading.h
+r0
+
+CCpHeader CGWindow.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGWindow.h
+r0
+
+CCpHeader CGWindowLevel.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGWindowLevel.h
+r0
+
+CCpHeader CoreGraphics.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CoreGraphics.h
+r0
+
+CCpHeader CoreGraphicsExport.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Headers/CoreGraphicsExport.h
+r0
+
+CProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/A/Resources/Info.plist Info.plist
+r0
+
+CSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework
+s363910481.196593
+e363910481.201687
+r1
+xSetMode
+xog-w,a+rX
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.frameworkdc623251d5b0b541^e0a23351d5b0b541^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/0000000000000000^236"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework    cd /Users/galiro/OpenAir/core/CoreGraphics    /bin/chmod -RH og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework36"79170C0F-26E8-4C63-8751-7EF626820E25-
+
+CSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework
+s363910481.180921
+e363910481.188036
+r1
+xSetOwnerAndGroup
+xgaliro:staff
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"SetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework075d2e51d5b0b541^3e243051d5b0b541^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/0000000000000000^260"SetOwnerAndGroup "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework    cd /Users/galiro/OpenAir/core/CoreGraphics    /usr/sbin/chown -RH "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework36"3439E0BE-46BE-4006-8B58-B4CAD05FBF27-
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Headers Versions/Current/Headers
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/PrivateHeaders Versions/Current/PrivateHeaders
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Resources Versions/Current/Resources
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework/Versions/Current A
+r0
+
+CSymLink /Users/galiro/OpenAir/core/CoreGraphics/../build/Debug-windows/CoreGraphics.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework
+s363482705.817218
+e363482705.824622
+r1
+xSymLink
+x/Users/galiro/OpenAir/core/CoreGraphics/../build/Debug-windows/CoreGraphics.framework
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Process /Users/galiro/OpenAir/core/CoreGraphics/../build/Debug-windows/CoreGraphics.framework2a52d1514eaab541^c11ad3514eaab541^---0#0#0#--345"SymLink ../build/Debug-windows/CoreGraphics.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework    cd /Users/galiro/OpenAir/core/CoreGraphics    /bin/ln -sf /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework /Users/galiro/OpenAir/core/CoreGraphics/../build/Debug-windows/CoreGraphics.framework36"5DE4F4ED-4617-45E3-81FE-4147F6B447AD-
+
+CTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreGraphics.framework
+r0
+

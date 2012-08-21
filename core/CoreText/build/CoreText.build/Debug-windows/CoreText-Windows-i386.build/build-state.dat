@@ -1,0 +1,148 @@
+TCoreText-Windows-i386
+v5
+r1
+cCheck dependencies
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/Current A
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Resources Versions/Current/Resources
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Headers Versions/Current/Headers
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/PrivateHeaders Versions/Current/PrivateHeaders
+cProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/Resources/Info.plist Info.plist
+cSymLink /Users/galiro/OpenAir/core/CoreText/../build/Debug-windows/CoreText.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework
+cCpHeader CoreText.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/Headers/CoreText.h
+cCpHeader CoreTextExport.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/Headers/CoreTextExport.h
+cCpHeader KTFont.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/PrivateHeaders/KTFont.h
+cCpHeader CTFont.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/Headers/CTFont.h
+cTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework
+cSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework
+cSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework
+t1341747710
+s204
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Headers
+t3
+s24
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/PrivateHeaders
+t3
+s31
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Resources
+t3
+s26
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/Headers/CTFont.h
+t1341747710
+s2786
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/Headers/CoreText.h
+t1341747710
+s1102
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/Headers/CoreTextExport.h
+t1341747710
+s1586
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/PrivateHeaders/KTFont.h
+t1341747710
+s2205
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/Resources/Info.plist
+t1341747710
+s1085
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/Current
+t3
+s1
+
+N/Users/galiro/OpenAir/core/CoreText/../build/Debug-windows/CoreText.framework
+t2
+s0
+
+N/Users/galiro/OpenAir/core/CoreText/CTFont.h
+c000000004FF89B8A0000000000000AE2
+t1341692810
+s2786
+
+N/Users/galiro/OpenAir/core/CoreText/CoreText.h
+c000000004FF89B8A000000000000044E
+t1341692810
+s1102
+
+N/Users/galiro/OpenAir/core/CoreText/CoreTextExport.h
+c000000004FF89B8A0000000000000632
+t1341692810
+s1586
+
+N/Users/galiro/OpenAir/core/CoreText/KTFont.h
+c000000004FF89B8A000000000000089D
+t1341692810
+s2205
+
+NInfo.plist
+c000000004FF89B8A0000000000000312
+t1341692810
+s786
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf8883851d5b0b541^64234851d5b0b541^---0#1#0#--18"Check dependencies36"3D0D6375-DC01-425F-884D-BCE4A12E128F-
+
+CCpHeader CTFont.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/Headers/CTFont.h
+r0
+
+CCpHeader CoreText.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/Headers/CoreText.h
+r0
+
+CCpHeader CoreTextExport.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/Headers/CoreTextExport.h
+r0
+
+CCpHeader KTFont.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/PrivateHeaders/KTFont.h
+r0
+
+CProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/A/Resources/Info.plist Info.plist
+r0
+
+CSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework
+s363910481.395716
+e363910481.400549
+r1
+xSetMode
+xog-w,a+rX
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework2d5d6551d5b0b541^a48a6651d5b0b541^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/0000000000000000^224"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework    cd /Users/galiro/OpenAir/core/CoreText    /bin/chmod -RH og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework36"785DC5B2-CA48-4C7F-AD36-22E822FDCB85-
+
+CSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework
+s363910481.381535
+e363910481.388095
+r1
+xSetOwnerAndGroup
+xgaliro:staff
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"SetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.frameworka9bc6151d5b0b541^af5c6351d5b0b541^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/0000000000000000^248"SetOwnerAndGroup "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework    cd /Users/galiro/OpenAir/core/CoreText    /usr/sbin/chown -RH "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework36"D3F88F10-B6A5-44AA-892F-E0920BDFEF71-
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Headers Versions/Current/Headers
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/PrivateHeaders Versions/Current/PrivateHeaders
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Resources Versions/Current/Resources
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework/Versions/Current A
+r0
+
+CSymLink /Users/galiro/OpenAir/core/CoreText/../build/Debug-windows/CoreText.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework
+s363482705.947617
+e363482705.952695
+r1
+xSymLink
+x/Users/galiro/OpenAir/core/CoreText/../build/Debug-windows/CoreText.framework
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Process /Users/galiro/OpenAir/core/CoreText/../build/Debug-windows/CoreText.frameworkeca4f2514eaab541^04e4f3514eaab541^---0#0#0#--321"SymLink ../build/Debug-windows/CoreText.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework    cd /Users/galiro/OpenAir/core/CoreText    /bin/ln -sf /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework /Users/galiro/OpenAir/core/CoreText/../build/Debug-windows/CoreText.framework36"98DA2CBF-9F30-473F-9040-E71AD79840E9-
+
+CTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreText.framework
+r0
+

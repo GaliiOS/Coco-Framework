@@ -1,0 +1,434 @@
+TQuartzCore-Windows-i386
+v5
+r1
+cCheck dependencies
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Resources Versions/Current/Resources
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/Current A
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Headers Versions/Current/Headers
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/PrivateHeaders Versions/Current/PrivateHeaders
+cProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Resources/Info.plist Info.plist
+cSymLink /Users/galiro/OpenAir/core/QuartzCore/../build/Release-windows/QuartzCore.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework
+cCpHeader CAAnimation.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAAnimation.h
+cCpHeader CALayer.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CALayer.h
+cCpHeader CATransform3D.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CATransform3D.h
+cCpHeader CARenderer.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CARenderer.h
+cCpHeader QuartzCore.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/QuartzCore.h
+cCpHeader CABase.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CABase.h
+cCpHeader CAWindowOpenGLContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/PrivateHeaders/CAWindowOpenGLContext.h
+cCpHeader CoreImage.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CoreImage.h
+cCpHeader CIColor.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIColor.h
+cCpHeader CIContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIContext.h
+cCpHeader CIFilter.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIFilter.h
+cCpHeader CIImage.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIImage.h
+cCpHeader CIVector.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIVector.h
+cCpHeader CIAffineTransform.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/PrivateHeaders/CIAffineTransform.h
+cCpHeader CoreVideo.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CoreVideo.h
+cCpHeader CAAnimationGroup.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAAnimationGroup.h
+cCpHeader CAPropertyAnimation.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAPropertyAnimation.h
+cCpHeader CATransition.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CATransition.h
+cCpHeader CoreAnimation.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CoreAnimation.h
+cCpHeader CABasicAnimation.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CABasicAnimation.h
+cCpHeader CAValueFunction.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAValueFunction.h
+cCpHeader CAMediaTiming.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAMediaTiming.h
+cCpHeader CAMediaTimingFunction.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAMediaTimingFunction.h
+cCpHeader CATransaction.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CATransaction.h
+cCpHeader CALayerContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/PrivateHeaders/CALayerContext.h
+cCpHeader CAAction.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAAction.h
+cTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework
+cSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework
+cSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework
+t1341747710
+s204
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Headers
+t3
+s24
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/PrivateHeaders
+t3
+s31
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Resources
+t3
+s26
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAAction.h
+t1341747710
+s58
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAAnimation.h
+t1341747710
+s1441
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAAnimationGroup.h
+t1341747710
+s168
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CABase.h
+t1341747710
+s121
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CABasicAnimation.h
+t1341747710
+s247
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CALayer.h
+t1341747710
+s2334
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAMediaTiming.h
+t1341747710
+s377
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAMediaTimingFunction.h
+t1341747710
+s719
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAPropertyAnimation.h
+t1341747710
+s335
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CARenderer.h
+t1341747710
+s539
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CATransaction.h
+t1341747710
+s881
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CATransform3D.h
+t1341747710
+s223
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CATransition.h
+t1341747710
+s312
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAValueFunction.h
+t1341747710
+s788
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIColor.h
+t1341747710
+s562
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIContext.h
+t1341747710
+s435
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIFilter.h
+t1341747710
+s283
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIImage.h
+t1341747710
+s267
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIVector.h
+t1341747710
+s796
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CoreAnimation.h
+t1341747710
+s182
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CoreImage.h
+t1341747710
+s159
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CoreVideo.h
+t1341747710
+s32
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/QuartzCore.h
+t1341747710
+s141
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/PrivateHeaders/CALayerContext.h
+t1341747710
+s650
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/PrivateHeaders/CAWindowOpenGLContext.h
+t1341747710
+s297
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/PrivateHeaders/CIAffineTransform.h
+t1341747710
+s197
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Resources/Info.plist
+t1341747710
+s1094
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/Current
+t3
+s1
+
+N/Users/galiro/OpenAir/core/QuartzCore/../build/Release-windows/QuartzCore.framework
+t2
+s0
+
+N/Users/galiro/OpenAir/core/QuartzCore/CAAction.h
+c000000004FF89B8C000000000000003A
+t1341692812
+s58
+
+N/Users/galiro/OpenAir/core/QuartzCore/CAAnimation.h
+c000000004FF89B8C00000000000005A1
+t1341692812
+s1441
+
+N/Users/galiro/OpenAir/core/QuartzCore/CAAnimationGroup.h
+c000000004FF89B8C00000000000000A8
+t1341692812
+s168
+
+N/Users/galiro/OpenAir/core/QuartzCore/CABase.h
+c000000004FF89B8C0000000000000079
+t1341692812
+s121
+
+N/Users/galiro/OpenAir/core/QuartzCore/CABasicAnimation.h
+c000000004FF89B8C00000000000000F7
+t1341692812
+s247
+
+N/Users/galiro/OpenAir/core/QuartzCore/CALayer.h
+c000000004FF89B8C000000000000091E
+t1341692812
+s2334
+
+N/Users/galiro/OpenAir/core/QuartzCore/CALayerContext.h
+c000000004FF89B8C000000000000028A
+t1341692812
+s650
+
+N/Users/galiro/OpenAir/core/QuartzCore/CAMediaTiming.h
+c000000004FF89B8C0000000000000179
+t1341692812
+s377
+
+N/Users/galiro/OpenAir/core/QuartzCore/CAMediaTimingFunction.h
+c000000004FF89B8C00000000000002CF
+t1341692812
+s719
+
+N/Users/galiro/OpenAir/core/QuartzCore/CAPropertyAnimation.h
+c000000004FF89B8C000000000000014F
+t1341692812
+s335
+
+N/Users/galiro/OpenAir/core/QuartzCore/CARenderer.h
+c000000004FF89B8C000000000000021B
+t1341692812
+s539
+
+N/Users/galiro/OpenAir/core/QuartzCore/CATransaction.h
+c000000004FF89B8C0000000000000371
+t1341692812
+s881
+
+N/Users/galiro/OpenAir/core/QuartzCore/CATransform3D.h
+c000000004FF89B8C00000000000000DF
+t1341692812
+s223
+
+N/Users/galiro/OpenAir/core/QuartzCore/CATransition.h
+c000000004FF89B8C0000000000000138
+t1341692812
+s312
+
+N/Users/galiro/OpenAir/core/QuartzCore/CAValueFunction.h
+c000000004FF89B8C0000000000000314
+t1341692812
+s788
+
+N/Users/galiro/OpenAir/core/QuartzCore/CAWindowOpenGLContext.h
+c000000004FF89B8C0000000000000129
+t1341692812
+s297
+
+N/Users/galiro/OpenAir/core/QuartzCore/CIAffineTransform.h
+c000000004FF89B8C00000000000000C5
+t1341692812
+s197
+
+N/Users/galiro/OpenAir/core/QuartzCore/CIColor.h
+c000000004FF89B8C0000000000000232
+t1341692812
+s562
+
+N/Users/galiro/OpenAir/core/QuartzCore/CIContext.h
+c000000004FF89B8C00000000000001B3
+t1341692812
+s435
+
+N/Users/galiro/OpenAir/core/QuartzCore/CIFilter.h
+c000000004FF89B8C000000000000011B
+t1341692812
+s283
+
+N/Users/galiro/OpenAir/core/QuartzCore/CIImage.h
+c000000004FF89B8C000000000000010B
+t1341692812
+s267
+
+N/Users/galiro/OpenAir/core/QuartzCore/CIVector.h
+c000000004FF89B8C000000000000031C
+t1341692812
+s796
+
+N/Users/galiro/OpenAir/core/QuartzCore/CoreAnimation.h
+c000000004FF89B8C00000000000000B6
+t1341692812
+s182
+
+N/Users/galiro/OpenAir/core/QuartzCore/CoreImage.h
+c000000004FF89B8C000000000000009F
+t1341692812
+s159
+
+N/Users/galiro/OpenAir/core/QuartzCore/CoreVideo.h
+c000000004FF89B8C0000000000000020
+t1341692812
+s32
+
+N/Users/galiro/OpenAir/core/QuartzCore/QuartzCore.h
+c000000004FF89B8C000000000000008D
+t1341692812
+s141
+
+NInfo.plist
+c000000004FF89B8C0000000000000315
+t1341692812
+s789
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies68923851d5b0b541^d2c34851d5b0b541^---0#1#0#--18"Check dependencies36"F659E0F1-130D-4B6A-B7E4-2ADCFDB9C46D-
+
+CCpHeader CAAction.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAAction.h
+r0
+
+CCpHeader CAAnimation.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAAnimation.h
+r0
+
+CCpHeader CAAnimationGroup.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAAnimationGroup.h
+r0
+
+CCpHeader CABase.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CABase.h
+r0
+
+CCpHeader CABasicAnimation.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CABasicAnimation.h
+r0
+
+CCpHeader CALayer.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CALayer.h
+r0
+
+CCpHeader CALayerContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/PrivateHeaders/CALayerContext.h
+r0
+
+CCpHeader CAMediaTiming.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAMediaTiming.h
+r0
+
+CCpHeader CAMediaTimingFunction.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAMediaTimingFunction.h
+r0
+
+CCpHeader CAPropertyAnimation.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAPropertyAnimation.h
+r0
+
+CCpHeader CARenderer.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CARenderer.h
+r0
+
+CCpHeader CATransaction.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CATransaction.h
+r0
+
+CCpHeader CATransform3D.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CATransform3D.h
+r0
+
+CCpHeader CATransition.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CATransition.h
+r0
+
+CCpHeader CAValueFunction.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CAValueFunction.h
+r0
+
+CCpHeader CAWindowOpenGLContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/PrivateHeaders/CAWindowOpenGLContext.h
+r0
+
+CCpHeader CIAffineTransform.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/PrivateHeaders/CIAffineTransform.h
+r0
+
+CCpHeader CIColor.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIColor.h
+r0
+
+CCpHeader CIContext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIContext.h
+r0
+
+CCpHeader CIFilter.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIFilter.h
+r0
+
+CCpHeader CIImage.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIImage.h
+r0
+
+CCpHeader CIVector.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CIVector.h
+r0
+
+CCpHeader CoreAnimation.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CoreAnimation.h
+r0
+
+CCpHeader CoreImage.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CoreImage.h
+r0
+
+CCpHeader CoreVideo.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/CoreVideo.h
+r0
+
+CCpHeader QuartzCore.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Headers/QuartzCore.h
+r0
+
+CProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/A/Resources/Info.plist Info.plist
+r0
+
+CSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework
+s363910481.403236
+e363910481.408441
+r1
+xSetMode
+xog-w,a+rX
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework564a6751d5b0b541^37a96851d5b0b541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/0000000000000000^230"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework    cd /Users/galiro/OpenAir/core/QuartzCore    /bin/chmod -RH og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework36"CA9F5F90-9E24-4849-A072-4E1A25DBB965-
+
+CSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework
+s363910481.389305
+e363910481.395814
+r1
+xSetOwnerAndGroup
+xgaliro:staff
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"SetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework03b66351d5b0b541^3f556551d5b0b541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/0000000000000000^254"SetOwnerAndGroup "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework    cd /Users/galiro/OpenAir/core/QuartzCore    /usr/sbin/chown -RH "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework36"9F1615D8-78BB-4BFE-841B-21F7AF74F096-
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Headers Versions/Current/Headers
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/PrivateHeaders Versions/Current/PrivateHeaders
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Resources Versions/Current/Resources
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework/Versions/Current A
+r0
+
+CSymLink /Users/galiro/OpenAir/core/QuartzCore/../build/Release-windows/QuartzCore.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework
+s363482705.952360
+e363482705.957340
+r1
+xSymLink
+x/Users/galiro/OpenAir/core/QuartzCore/../build/Release-windows/QuartzCore.framework
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Process /Users/galiro/OpenAir/core/QuartzCore/../build/Release-windows/QuartzCore.frameworkb6daf3514eaab541^1615f5514eaab541^---0#0#0#--337"SymLink ../build/Release-windows/QuartzCore.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework    cd /Users/galiro/OpenAir/core/QuartzCore    /bin/ln -sf /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework /Users/galiro/OpenAir/core/QuartzCore/../build/Release-windows/QuartzCore.framework36"234A1A7E-9874-4C44-A4FB-AB831A7F0E45-
+
+CTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/QuartzCore.framework
+r0
+

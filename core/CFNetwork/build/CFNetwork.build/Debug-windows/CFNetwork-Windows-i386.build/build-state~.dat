@@ -1,0 +1,153 @@
+TCFNetwork-Windows-i386
+v5
+r1
+cCheck dependencies
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/Current A
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Resources Versions/Current/Resources
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Headers Versions/Current/Headers
+cProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Resources/Info.plist Info.plist
+cSymLink /Users/galiro/OpenAir/core/CFNetwork/../build/Debug-windows/CFNetwork.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework
+cCpHeader CFNetwork.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetwork.h
+cCpHeader CFSocketStream.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFSocketStream.h
+cCpHeader CFHost.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFHost.h
+cCpHeader CFNetServices.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetServices.h
+cCpHeader CFNetworkExport.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetworkExport.h
+cTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework
+cSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework
+cSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework
+t1341747667
+s170
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Headers
+t3
+s24
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Resources
+t3
+s26
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFHost.h
+t1341747667
+s1773
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetServices.h
+t1341747667
+s78
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetwork.h
+t1341747667
+s102
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetworkExport.h
+t1341747667
+s515
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFSocketStream.h
+t1341747667
+s3782
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Resources/Info.plist
+t1341747667
+s1147
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/Current
+t3
+s1
+
+N/Users/galiro/OpenAir/core/CFNetwork/../build/Debug-windows/CFNetwork.framework
+t2
+s0
+
+N/Users/galiro/OpenAir/core/CFNetwork/CFHost.h
+c000000004FF89B8900000000000006ED
+t1341692809
+s1773
+
+N/Users/galiro/OpenAir/core/CFNetwork/CFNetServices.h
+c000000004FF89B89000000000000004E
+t1341692809
+s78
+
+N/Users/galiro/OpenAir/core/CFNetwork/CFNetwork.h
+c000000004FF89B890000000000000066
+t1341692809
+s102
+
+N/Users/galiro/OpenAir/core/CFNetwork/CFNetworkExport.h
+c000000004FF89B890000000000000203
+t1341692809
+s515
+
+N/Users/galiro/OpenAir/core/CFNetwork/CFSocketStream.h
+c000000004FF89B890000000000000EC6
+t1341692809
+s3782
+
+NInfo.plist
+c000000004FF89B89000000000000033C
+t1341692809
+s828
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies46993d334eaab541^124a43334eaab541^---0#1#0#--18"Check dependencies36"9AF7CE82-B070-4A95-9470-06AA453D7498-
+
+CCpHeader CFHost.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFHost.h
+r0
+
+CCpHeader CFNetServices.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetServices.h
+r0
+
+CCpHeader CFNetwork.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetwork.h
+r0
+
+CCpHeader CFNetworkExport.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetworkExport.h
+r0
+
+CCpHeader CFSocketStream.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFSocketStream.h
+r0
+
+CProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/A/Resources/Info.plist Info.plist
+r0
+
+CSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework
+s363482675.653961
+e363482675.661063
+r1
+xSetMode
+xog-w,a+rX
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.frameworkd57aa7334eaab541^0340a9334eaab541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/0000000000000000^227"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework    cd /Users/galiro/OpenAir/core/CFNetwork    /bin/chmod -RH og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework36"97AA31D8-9F47-498E-8109-FD06C787AA8C-
+
+CSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework
+s363482675.592003
+e363482675.647151
+r1
+xSetOwnerAndGroup
+xgaliro:staff
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"SetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.frameworkf0e097334eaab541^be88a6334eaab541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/0000000000000000^251"SetOwnerAndGroup "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework    cd /Users/galiro/OpenAir/core/CFNetwork    /usr/sbin/chown -RH "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework36"EBE22B45-A315-4F88-95A1-6460E8BF6C3A-
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Headers Versions/Current/Headers
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Resources Versions/Current/Resources
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework/Versions/Current A
+r0
+
+CSymLink /Users/galiro/OpenAir/core/CFNetwork/../build/Debug-windows/CFNetwork.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework
+s363482675.281021
+e363482675.552082
+r1
+xSymLink
+x/Users/galiro/OpenAir/core/CFNetwork/../build/Debug-windows/CFNetwork.framework
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Process /Users/galiro/OpenAir/core/CFNetwork/../build/Debug-windows/CFNetwork.frameworkfcfc47334eaab541^295e8d334eaab541^---0#0#0#--327"SymLink ../build/Debug-windows/CFNetwork.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework    cd /Users/galiro/OpenAir/core/CFNetwork    /bin/ln -sf /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework /Users/galiro/OpenAir/core/CFNetwork/../build/Debug-windows/CFNetwork.framework36"2E393C3F-055F-40A3-B059-6F97189B12AD-
+
+CTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/CFNetwork.framework
+r0
+

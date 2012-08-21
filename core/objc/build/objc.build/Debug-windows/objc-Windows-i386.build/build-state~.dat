@@ -1,0 +1,218 @@
+Tobjc-Windows-i386
+v5
+r1
+cCheck dependencies
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/Current A
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Resources Versions/Current/Resources
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Headers Versions/Current/Headers
+cProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Resources/Info.plist Info.plist
+cSymLink /Users/galiro/OpenAir/core/objc/../build/Debug-windows/objc.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework
+cCpHeader objc-class.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc-class.h
+cCpHeader objc.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc.h
+cCpHeader objc-export.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc-export.h
+cCpHeader objc-runtime.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc-runtime.h
+cCpHeader runtime.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/runtime.h
+cCpHeader message.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/message.h
+cCpHeader deprecated.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/deprecated.h
+cCpHeader Object.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/Object.h
+cCpHeader Protocol.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/Protocol.h
+cCpHeader objc-auto.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc-auto.h
+cTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework
+cSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework
+cSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework
+t1341747667
+s170
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Headers
+t3
+s24
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Resources
+t3
+s26
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/Object.h
+t1341747667
+s1327
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/Protocol.h
+t1341747667
+s1361
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/deprecated.h
+t1341747667
+s273
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/message.h
+t1341747667
+s618
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc-auto.h
+t1341747667
+s0
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc-class.h
+t1341747667
+s3441
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc-export.h
+t1341747667
+s1553
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc-runtime.h
+t1341747667
+s1180
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc.h
+t1341747667
+s1404
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/runtime.h
+t1341747667
+s6968
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Resources/Info.plist
+t1341747667
+s1073
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/Current
+t3
+s1
+
+N/Users/galiro/OpenAir/core/objc/../build/Debug-windows/objc.framework
+t2
+s0
+
+N/Users/galiro/OpenAir/core/objc/Object.h
+c000000004FF89B8C000000000000052F
+t1341692812
+s1327
+
+N/Users/galiro/OpenAir/core/objc/Protocol.h
+c000000004FF89B8C0000000000000551
+t1341692812
+s1361
+
+N/Users/galiro/OpenAir/core/objc/deprecated.h
+c000000004FF89B8C0000000000000111
+t1341692812
+s273
+
+N/Users/galiro/OpenAir/core/objc/message.h
+c000000004FF89B8C000000000000026A
+t1341692812
+s618
+
+N/Users/galiro/OpenAir/core/objc/objc-auto.h
+c000000004FF89B8C0000000000000000
+t1341692812
+s0
+
+N/Users/galiro/OpenAir/core/objc/objc-class.h
+c000000004FF89B8C0000000000000D71
+t1341692812
+s3441
+
+N/Users/galiro/OpenAir/core/objc/objc-export.h
+c000000004FF89B8C0000000000000611
+t1341692812
+s1553
+
+N/Users/galiro/OpenAir/core/objc/objc-runtime.h
+c000000004FF89B8C000000000000049C
+t1341692812
+s1180
+
+N/Users/galiro/OpenAir/core/objc/objc.h
+c000000004FF89B8C000000000000057C
+t1341692812
+s1404
+
+N/Users/galiro/OpenAir/core/objc/runtime.h
+c000000004FF89B8C0000000000001B38
+t1341692812
+s6968
+
+NInfo.plist
+c000000004FF89B8C00000000000002FC
+t1341692812
+s764
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb14e3d334eaab541^dca042334eaab541^---0#1#0#--18"Check dependencies36"52287D07-2F5A-4336-9E17-6445726D73D9-
+
+CCpHeader Object.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/Object.h
+r0
+
+CCpHeader Protocol.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/Protocol.h
+r0
+
+CCpHeader deprecated.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/deprecated.h
+r0
+
+CCpHeader message.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/message.h
+r0
+
+CCpHeader objc-auto.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc-auto.h
+r0
+
+CCpHeader objc-class.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc-class.h
+r0
+
+CCpHeader objc-export.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc-export.h
+r0
+
+CCpHeader objc-runtime.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc-runtime.h
+r0
+
+CCpHeader objc.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/objc.h
+r0
+
+CCpHeader runtime.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Headers/runtime.h
+r0
+
+CProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/A/Resources/Info.plist Info.plist
+r0
+
+CSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework
+s363482675.672299
+e363482675.677915
+r1
+xSetMode
+xog-w,a+rX
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.frameworkd428ac334eaab541^d28cad334eaab541^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/0000000000000000^212"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework    cd /Users/galiro/OpenAir/core/objc    /bin/chmod -RH og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework36"A47BE084-57B7-4736-8FFD-DDAA2566280A-
+
+CSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework
+s363482675.650045
+e363482675.665017
+r1
+xSetOwnerAndGroup
+xgaliro:staff
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"SetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework7b88a6334eaab541^033faa334eaab541^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/0000000000000000^236"SetOwnerAndGroup "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework    cd /Users/galiro/OpenAir/core/objc    /usr/sbin/chown -RH "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework36"8192EA29-C870-4FF4-8E75-7060AFDBEE3B-
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Headers Versions/Current/Headers
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Resources Versions/Current/Resources
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework/Versions/Current A
+r0
+
+CSymLink /Users/galiro/OpenAir/core/objc/../build/Debug-windows/objc.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework
+s363482675.282461
+e363482675.619932
+r1
+xSymLink
+x/Users/galiro/OpenAir/core/objc/../build/Debug-windows/objc.framework
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Process /Users/galiro/OpenAir/core/objc/../build/Debug-windows/objc.frameworkff5c48334eaab541^a5119f334eaab541^---0#0#0#--297"SymLink ../build/Debug-windows/objc.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework    cd /Users/galiro/OpenAir/core/objc    /bin/ln -sf /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework /Users/galiro/OpenAir/core/objc/../build/Debug-windows/objc.framework36"C414A58E-44C5-4F01-A207-D685F2CDB42C-
+
+CTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/objc.framework
+r0
+

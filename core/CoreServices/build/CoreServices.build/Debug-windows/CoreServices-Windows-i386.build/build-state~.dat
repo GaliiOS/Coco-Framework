@@ -1,0 +1,114 @@
+TCoreServices-Windows-i386
+v5
+r1
+cCheck dependencies
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Versions/Current A
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Resources Versions/Current/Resources
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Headers Versions/Current/Headers
+cSymLink /Users/galiro/OpenAir/core/CoreServices/../build/Debug-windows/CoreServices.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework
+cProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Versions/A/Resources/Info.plist Info.plist
+cCpHeader CoreServices.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h
+cCopyStringsFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework
+cSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework
+cSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework
+t1341747668
+s170
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Headers
+t3
+s24
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Resources
+t3
+s26
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h
+t1341747668
+s32
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t1341747668
+s92
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Versions/A/Resources/Info.plist
+t1341747668
+s1148
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Versions/Current
+t3
+s1
+
+N/Users/galiro/OpenAir/core/CoreServices/../build/Debug-windows/CoreServices.framework
+t2
+s0
+
+N/Users/galiro/OpenAir/core/CoreServices/CoreServices.h
+c000000004FF89B8A0000000000000020
+t1341692810
+s32
+
+N/Users/galiro/OpenAir/core/CoreServices/English.lproj/InfoPlist.strings
+c000000004FF89B8A0000000000000030
+t1341692810
+s48
+
+NInfo.plist
+c000000004FF89B8A000000000000033F
+t1341692810
+s831
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0fb4b2334eaab541^4563c5334eaab541^---0#1#0#--18"Check dependencies36"BF8BDBB3-BC23-4649-87D1-998A7969D13F-
+
+CCopyStringsFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCpHeader CoreServices.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h
+r0
+
+CProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Versions/A/Resources/Info.plist Info.plist
+r0
+
+CSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework
+s363482675.949404
+e363482675.960437
+r1
+xSetMode
+xog-w,a+rX
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework191ef3334eaab541^3fe0f5334eaab541^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/0000000000000000^236"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework    cd /Users/galiro/OpenAir/core/CoreServices    /bin/chmod -RH og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework36"808EE4EA-AFBD-4F36-B2E1-8CF59D3280B7-
+
+CSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework
+s363482675.824107
+e363482675.940806
+r1
+xSetOwnerAndGroup
+xgaliro:staff
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"SetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.frameworkab08d3334eaab541^19e2f0334eaab541^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/0000000000000000^260"SetOwnerAndGroup "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework    cd /Users/galiro/OpenAir/core/CoreServices    /usr/sbin/chown -RH "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework36"7E4924C8-9E83-43DD-A41F-A46B1B6F89E0-
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Headers Versions/Current/Headers
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Resources Versions/Current/Resources
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework/Versions/Current A
+r0
+
+CSymLink /Users/galiro/OpenAir/core/CoreServices/../build/Debug-windows/CoreServices.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework
+s363482675.780734
+e363482675.785715
+r1
+xSymLink
+x/Users/galiro/OpenAir/core/CoreServices/../build/Debug-windows/CoreServices.framework
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Process /Users/galiro/OpenAir/core/CoreServices/../build/Debug-windows/CoreServices.framework2deec7334eaab541^4625c9334eaab541^---0#0#0#--345"SymLink ../build/Debug-windows/CoreServices.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework    cd /Users/galiro/OpenAir/core/CoreServices    /bin/ln -sf /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework /Users/galiro/OpenAir/core/CoreServices/../build/Debug-windows/CoreServices.framework36"871ACCD6-451F-4E53-8F73-8536FB66F871-
+
+CTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreServices.framework
+r0
+

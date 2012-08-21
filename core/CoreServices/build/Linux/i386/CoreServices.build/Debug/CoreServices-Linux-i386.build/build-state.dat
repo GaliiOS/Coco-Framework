@@ -1,0 +1,114 @@
+TCoreServices-Linux-i386
+v5
+r1
+cCheck dependencies
+cSymLink /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Versions/Current A
+cSymLink /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Resources Versions/Current/Resources
+cSymLink /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Headers Versions/Current/Headers
+cProcessInfoPlistFile /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Versions/A/Resources/Info.plist Info.plist
+cSymLink /Users/galiro/OpenAir/core/CoreServices/build/Linux/i386/Debug/CoreServices.framework /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework
+cCpHeader CoreServices.h /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h
+cCopyStringsFile /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cTouch /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework
+cSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework
+cSetMode og-w,a+rX /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework
+t1341748179
+s170
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Headers
+t3
+s24
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Resources
+t3
+s26
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h
+t1341748178
+s32
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t1341748179
+s92
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Versions/A/Resources/Info.plist
+t1341748178
+s1117
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Versions/Current
+t3
+s1
+
+N/Users/galiro/OpenAir/core/CoreServices/CoreServices.h
+c000000004FF89B8A0000000000000020
+t1341692810
+s32
+
+N/Users/galiro/OpenAir/core/CoreServices/English.lproj/InfoPlist.strings
+c000000004FF89B8A0000000000000030
+t1341692810
+s48
+
+N/Users/galiro/OpenAir/core/CoreServices/build/Linux/i386/Debug/CoreServices.framework
+t2
+s0
+
+NInfo.plist
+c000000004FF89B8A000000000000033F
+t1341692810
+s831
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc9ad615e57aab541^f279795e57aab541^---0#1#0#--18"Check dependencies36"730F637D-8429-4F06-B3E8-05CE3FEA4D78-
+
+CCopyStringsFile /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCpHeader CoreServices.h /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h
+r0
+
+CProcessInfoPlistFile /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Versions/A/Resources/Info.plist Info.plist
+r0
+
+CSetMode og-w,a+rX /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework
+s363485022.577826
+e363485022.587020
+r1
+xSetMode
+xog-w,a+rX
+x/Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"SetMode og-w,a+rX /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework0919945e57aab541^dc62965e57aab541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/0000000000000000^232"SetMode og-w,a+rX /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework    cd /Users/galiro/OpenAir/core/CoreServices    /bin/chmod -RH og-w,a+rX /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework36"9FD947B0-972E-462B-88E8-0417649955CB-
+
+CSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework
+s363485022.557147
+e363485022.569375
+r1
+xSetOwnerAndGroup
+xgaliro:staff
+x/Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"SetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.frameworkcdaf8e5e57aab541^d07e945e57aab541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/0000000000000000^256"SetOwnerAndGroup "galiro:staff" /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework    cd /Users/galiro/OpenAir/core/CoreServices    /usr/sbin/chown -RH "galiro:staff" /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework36"3EA49A74-04FB-475D-BE0F-20F6AC5BCE11-
+
+CSymLink /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Headers Versions/Current/Headers
+r0
+
+CSymLink /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Resources Versions/Current/Resources
+r0
+
+CSymLink /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework/Versions/Current A
+r0
+
+CSymLink /Users/galiro/OpenAir/core/CoreServices/build/Linux/i386/Debug/CoreServices.framework /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework
+s363485022.491592
+e363485022.526060
+r1
+xSymLink
+x/Users/galiro/OpenAir/core/CoreServices/build/Linux/i386/Debug/CoreServices.framework
+x/Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Process /Users/galiro/OpenAir/core/CoreServices/build/Linux/i386/Debug/CoreServices.framework3ee87d5e57aab541^11ac865e57aab541^---0#0#0#--341"SymLink build/Linux/i386/Debug/CoreServices.framework /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework    cd /Users/galiro/OpenAir/core/CoreServices    /bin/ln -sf /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework /Users/galiro/OpenAir/core/CoreServices/build/Linux/i386/Debug/CoreServices.framework36"3442C4F4-4383-4EA9-BCFF-048DDA7E9C0D-
+
+CTouch /Developer/Cocotron/1.0/Linux/i386/Frameworks/CoreServices.framework
+r0
+

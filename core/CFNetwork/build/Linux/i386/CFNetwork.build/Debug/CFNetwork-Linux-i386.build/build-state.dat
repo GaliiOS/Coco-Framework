@@ -1,0 +1,153 @@
+TCFNetwork-Linux-i386
+v5
+r1
+cCheck dependencies
+cSymLink /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Resources Versions/Current/Resources
+cSymLink /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/Current A
+cSymLink /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Headers Versions/Current/Headers
+cProcessInfoPlistFile /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Resources/Info.plist Info.plist
+cSymLink /Users/galiro/OpenAir/core/CFNetwork/build/Linux/i386/Debug/CFNetwork.framework /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework
+cCpHeader CFNetwork.h /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetwork.h
+cCpHeader CFSocketStream.h /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFSocketStream.h
+cCpHeader CFNetServices.h /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetServices.h
+cCpHeader CFHost.h /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFHost.h
+cCpHeader CFNetworkExport.h /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetworkExport.h
+cTouch /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework
+cSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework
+cSetMode og-w,a+rX /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework
+t1341748175
+s170
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Headers
+t3
+s24
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Resources
+t3
+s26
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFHost.h
+t1341748175
+s1773
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetServices.h
+t1341748175
+s78
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetwork.h
+t1341748175
+s102
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetworkExport.h
+t1341748175
+s515
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFSocketStream.h
+t1341748175
+s3782
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Resources/Info.plist
+t1341748175
+s1100
+
+N/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/Current
+t3
+s1
+
+N/Users/galiro/OpenAir/core/CFNetwork/CFHost.h
+c000000004FF89B8900000000000006ED
+t1341692809
+s1773
+
+N/Users/galiro/OpenAir/core/CFNetwork/CFNetServices.h
+c000000004FF89B89000000000000004E
+t1341692809
+s78
+
+N/Users/galiro/OpenAir/core/CFNetwork/CFNetwork.h
+c000000004FF89B890000000000000066
+t1341692809
+s102
+
+N/Users/galiro/OpenAir/core/CFNetwork/CFNetworkExport.h
+c000000004FF89B890000000000000203
+t1341692809
+s515
+
+N/Users/galiro/OpenAir/core/CFNetwork/CFSocketStream.h
+c000000004FF89B890000000000000EC6
+t1341692809
+s3782
+
+N/Users/galiro/OpenAir/core/CFNetwork/build/Linux/i386/Debug/CFNetwork.framework
+t2
+s0
+
+NInfo.plist
+c000000004FF89B89000000000000033C
+t1341692809
+s828
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciescd01ce5d57aab541^6825e15d57aab541^---0#1#0#--18"Check dependencies36"0F204611-85EC-4F58-AFF0-845F6A892747-
+
+CCpHeader CFHost.h /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFHost.h
+r0
+
+CCpHeader CFNetServices.h /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetServices.h
+r0
+
+CCpHeader CFNetwork.h /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetwork.h
+r0
+
+CCpHeader CFNetworkExport.h /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFNetworkExport.h
+r0
+
+CCpHeader CFSocketStream.h /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Headers/CFSocketStream.h
+r0
+
+CProcessInfoPlistFile /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/A/Resources/Info.plist Info.plist
+r0
+
+CSetMode og-w,a+rX /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework
+s363485022.207527
+e363485022.279402
+r1
+xSetMode
+xog-w,a+rX
+x/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"SetMode og-w,a+rX /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework132d355e57aab541^378b475e57aab541^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/0000000000000000^223"SetMode og-w,a+rX /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework    cd /Users/galiro/OpenAir/core/CFNetwork    /bin/chmod -RH og-w,a+rX /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework36"CC280DDA-D102-4C34-A016-A8421F4A3CCB-
+
+CSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework
+s363485022.138199
+e363485022.199203
+r1
+xSetOwnerAndGroup
+xgaliro:staff
+x/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"SetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework4371235e57aab541^d6fe325e57aab541^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/0000000000000000^247"SetOwnerAndGroup "galiro:staff" /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework    cd /Users/galiro/OpenAir/core/CFNetwork    /usr/sbin/chown -RH "galiro:staff" /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework36"6A9BDFE4-D2BF-4658-B544-02984081421F-
+
+CSymLink /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Headers Versions/Current/Headers
+r0
+
+CSymLink /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Resources Versions/Current/Resources
+r0
+
+CSymLink /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework/Versions/Current A
+r0
+
+CSymLink /Users/galiro/OpenAir/core/CFNetwork/build/Linux/i386/Debug/CFNetwork.framework /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework
+s363485021.921601
+e363485022.097201
+r1
+xSymLink
+x/Users/galiro/OpenAir/core/CFNetwork/build/Linux/i386/Debug/CFNetwork.framework
+x/Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Process /Users/galiro/OpenAir/core/CFNetwork/build/Linux/i386/Debug/CFNetwork.framework3e09ec5d57aab541^abeb185e57aab541^---0#0#0#--323"SymLink build/Linux/i386/Debug/CFNetwork.framework /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework    cd /Users/galiro/OpenAir/core/CFNetwork    /bin/ln -sf /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework /Users/galiro/OpenAir/core/CFNetwork/build/Linux/i386/Debug/CFNetwork.framework36"DD0E3D40-83A6-4B0F-9206-6332C28F0FA6-
+
+CTouch /Developer/Cocotron/1.0/Linux/i386/Frameworks/CFNetwork.framework
+r0
+

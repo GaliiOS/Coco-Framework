@@ -1,0 +1,192 @@
+TOpenGL-Windows-i386
+v5
+r1
+cCheck dependencies
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/Current A
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Resources Versions/Current/Resources
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Headers Versions/Current/Headers
+cProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Resources/Info.plist Info.plist
+cSymLink /Users/galiro/OpenAir/core/OpenGL/../build/Release-windows/OpenGL.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework
+cCpHeader OpenGL.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/OpenGL.h
+cCpHeader gl.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/gl.h
+cCpHeader glu.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/glu.h
+cCpHeader glext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/glext.h
+cCpHeader CGLCurrent.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/CGLCurrent.h
+cCpHeader CGLTypes.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/CGLTypes.h
+cCpHeader glweak.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/glweak.h
+cCpHeader wglext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/wglext.h
+cTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework
+cSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework
+cSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework
+t1341747667
+s170
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Headers
+t3
+s24
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Resources
+t3
+s26
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/CGLCurrent.h
+t1341747667
+s152
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/CGLTypes.h
+t1341747667
+s2906
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/OpenGL.h
+t1341747667
+s2504
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/gl.h
+t1341747667
+s18
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/glext.h
+t1341747667
+s372677
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/glu.h
+t1341747667
+s41
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/glweak.h
+t1341747667
+s794
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/wglext.h
+t1341747667
+s41377
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Resources/Info.plist
+t1341747667
+s1079
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/Current
+t3
+s1
+
+N/Users/galiro/OpenAir/core/OpenGL/../build/Release-windows/OpenGL.framework
+t2
+s0
+
+N/Users/galiro/OpenAir/core/OpenGL/CGLCurrent.h
+c000000004FF89B8C0000000000000098
+t1341692812
+s152
+
+N/Users/galiro/OpenAir/core/OpenGL/CGLTypes.h
+c000000004FF89B8C0000000000000B5A
+t1341692812
+s2906
+
+N/Users/galiro/OpenAir/core/OpenGL/OpenGL.h
+c000000004FF89B8C00000000000009C8
+t1341692812
+s2504
+
+N/Users/galiro/OpenAir/core/OpenGL/gl.h
+c000000004FF89B8C0000000000000012
+t1341692812
+s18
+
+N/Users/galiro/OpenAir/core/OpenGL/glext.h
+c000000004FF89B8C000000000005AFC5
+t1341692812
+s372677
+
+N/Users/galiro/OpenAir/core/OpenGL/glu.h
+c000000004FF89B8C0000000000000029
+t1341692812
+s41
+
+N/Users/galiro/OpenAir/core/OpenGL/glweak.h
+c000000004FF89B8C000000000000031A
+t1341692812
+s794
+
+N/Users/galiro/OpenAir/core/OpenGL/wglext.h
+c000000004FF89B8C000000000000A1A1
+t1341692812
+s41377
+
+NInfo.plist
+c000000004FF89B8C00000000000002FE
+t1341692812
+s766
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies15fd494bd5b0b541^c651654bd5b0b541^---0#1#0#--18"Check dependencies36"F16B8B6F-3DF2-4517-A418-D996DBDF9663-
+
+CCpHeader CGLCurrent.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/CGLCurrent.h
+r0
+
+CCpHeader CGLTypes.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/CGLTypes.h
+r0
+
+CCpHeader OpenGL.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/OpenGL.h
+r0
+
+CCpHeader gl.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/gl.h
+r0
+
+CCpHeader glext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/glext.h
+r0
+
+CCpHeader glu.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/glu.h
+r0
+
+CCpHeader glweak.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/glweak.h
+r0
+
+CCpHeader wglext.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Headers/wglext.h
+r0
+
+CProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/A/Resources/Info.plist Info.plist
+r0
+
+CSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework
+s363910475.729799
+e363910475.773996
+r1
+xSetMode
+xog-w,a+rX
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework7de8ba4bd5b0b541^0b2ac64bd5b0b541^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/0000000000000000^218"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework    cd /Users/galiro/OpenAir/core/OpenGL    /bin/chmod -RH og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework36"5B9E094D-99E5-4027-82B9-1C724E79360B-
+
+CSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework
+s363910475.444075
+e363910475.718671
+r1
+xSetOwnerAndGroup
+xgaliro:staff
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"SetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework9203764bd5b0b541^61fdb74bd5b0b541^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/0000000000000000^242"SetOwnerAndGroup "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework    cd /Users/galiro/OpenAir/core/OpenGL    /usr/sbin/chown -RH "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework36"C7DBB924-721E-4BF1-93F6-1C1423CB076B-
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Headers Versions/Current/Headers
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Resources Versions/Current/Resources
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework/Versions/Current A
+r0
+
+CSymLink /Users/galiro/OpenAir/core/OpenGL/../build/Release-windows/OpenGL.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework
+s363482675.279700
+e363482675.551905
+r1
+xSymLink
+x/Users/galiro/OpenAir/core/OpenGL/../build/Release-windows/OpenGL.framework
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Process /Users/galiro/OpenAir/core/OpenGL/../build/Release-windows/OpenGL.frameworkd6a847334eaab541^ef578d334eaab541^---0#0#0#--313"SymLink ../build/Release-windows/OpenGL.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework    cd /Users/galiro/OpenAir/core/OpenGL    /bin/ln -sf /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework /Users/galiro/OpenAir/core/OpenGL/../build/Release-windows/OpenGL.framework36"1E281A5F-33A0-402A-A133-3A4F99F91ECE-
+
+CTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/OpenGL.framework
+r0
+

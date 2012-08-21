@@ -1,0 +1,153 @@
+TCoreVideo-Windows-i386
+v5
+r1
+cCheck dependencies
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/Current A
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Resources Versions/Current/Resources
+cSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Headers Versions/Current/Headers
+cProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Resources/Info.plist Info.plist
+cSymLink /Users/galiro/OpenAir/core/CoreVideo/../build/Release-windows/CoreVideo.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework
+cCpHeader CVDisplayLink.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Headers/CVDisplayLink.h
+cCpHeader CoreVideo.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Headers/CoreVideo.h
+cCpHeader CVBase.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Headers/CVBase.h
+cCpHeader CVReturn.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Headers/CVReturn.h
+cCopyStringsFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework
+cSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework
+cSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework
+t1341747708
+s170
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Headers
+t3
+s24
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Resources
+t3
+s26
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Headers/CVBase.h
+t1341747708
+s634
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Headers/CVDisplayLink.h
+t1341747708
+s855
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Headers/CVReturn.h
+t1341747708
+s92
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Headers/CoreVideo.h
+t1341747708
+s36
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t1341747708
+s92
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Resources/Info.plist
+t1341747708
+s1150
+
+N/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/Current
+t3
+s1
+
+N/Users/galiro/OpenAir/core/CoreVideo/../build/Release-windows/CoreVideo.framework
+t2
+s0
+
+N/Users/galiro/OpenAir/core/CoreVideo/CVBase.h
+c000000004FF89B8A000000000000027A
+t1341692810
+s634
+
+N/Users/galiro/OpenAir/core/CoreVideo/CVDisplayLink.h
+c000000004FF89B8A0000000000000357
+t1341692810
+s855
+
+N/Users/galiro/OpenAir/core/CoreVideo/CVReturn.h
+c000000004FF89B8A000000000000005C
+t1341692810
+s92
+
+N/Users/galiro/OpenAir/core/CoreVideo/CoreVideo.h
+c000000004FF89B8A0000000000000024
+t1341692810
+s36
+
+N/Users/galiro/OpenAir/core/CoreVideo/English.lproj/InfoPlist.strings
+c000000004FF89B8A0000000000000030
+t1341692810
+s48
+
+NInfo.plist
+c000000004FF89B8A0000000000000357
+t1341692810
+s855
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies4a436150d5b0b541^86afaf50d5b0b541^---0#1#0#--18"Check dependencies36"887726C9-8AF5-4CB4-A5BF-9171CA051864-
+
+CCopyStringsFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCpHeader CVBase.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Headers/CVBase.h
+r0
+
+CCpHeader CVDisplayLink.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Headers/CVDisplayLink.h
+r0
+
+CCpHeader CVReturn.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Headers/CVReturn.h
+r0
+
+CCpHeader CoreVideo.h /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Headers/CoreVideo.h
+r0
+
+CProcessInfoPlistFile /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/A/Resources/Info.plist Info.plist
+r0
+
+CSetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework
+s363910480.748405
+e363910480.753437
+r1
+xSetMode
+xog-w,a+rX
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework2fa4bf50d5b0b541^c6e1c050d5b0b541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/0000000000000000^227"SetMode og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework    cd /Users/galiro/OpenAir/core/CoreVideo    /bin/chmod -RH og-w,a+rX /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework36"2D850E9A-192A-4EA7-B6F8-A13BB962ABE0-
+
+CSetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework
+s363910480.735081
+e363910480.740822
+r1
+xSetOwnerAndGroup
+xgaliro:staff
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"SetOwnerAndGroup galiro:staff /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework473dbc50d5b0b541^5da7bd50d5b0b541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/0000000000000000^251"SetOwnerAndGroup "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework    cd /Users/galiro/OpenAir/core/CoreVideo    /usr/sbin/chown -RH "galiro:staff" /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework36"997829BA-CA3F-492E-80A2-EDA973BA6DDB-
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Headers Versions/Current/Headers
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Resources Versions/Current/Resources
+r0
+
+CSymLink /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework/Versions/Current A
+r0
+
+CSymLink /Users/galiro/OpenAir/core/CoreVideo/../build/Release-windows/CoreVideo.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework
+s363482705.525814
+e363482705.555658
+r1
+xSymLink
+x/Users/galiro/OpenAir/core/CoreVideo/../build/Release-windows/CoreVideo.framework
+x/Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Process /Users/galiro/OpenAir/core/CoreVideo/../build/Release-windows/CoreVideo.frameworka8ac86514eaab541^d5068f514eaab541^---0#0#0#--331"SymLink ../build/Release-windows/CoreVideo.framework /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework    cd /Users/galiro/OpenAir/core/CoreVideo    /bin/ln -sf /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework /Users/galiro/OpenAir/core/CoreVideo/../build/Release-windows/CoreVideo.framework36"4D0C4F65-6BC8-4896-B967-1BC373374066-
+
+CTouch /Developer/Cocotron/1.0/Windows/i386/Frameworks/CoreVideo.framework
+r0
+
